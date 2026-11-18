@@ -9,4 +9,4 @@ Senior software engineer and AI engineer in Yerevan. 10+ years building producti
 
 **Stack:** Python (FastAPI, Django, Celery) · Go (gRPC, NATS) · TypeScript (NestJS, React) · PostgreSQL · Kafka · Redis · Docker · Kubernetes · AWS · LLM agents, RAG, MCP, evals
 
-Portfolio and blog: https://pjsofts.github.io
+Portfolio: https://pouriajahandideh.com · AI Engineering course: https://pjsofts.github.io
